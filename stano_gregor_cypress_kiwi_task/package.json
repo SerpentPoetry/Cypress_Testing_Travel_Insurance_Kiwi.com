@@ -1,0 +1,14 @@
+{
+  "name": "stano_gregor_cypress_kiwi_task",
+  "version": "1.0.0",
+  "description": "QA case study Kiwi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stano Gregor",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
